@@ -1,0 +1,39 @@
+.heading{
+    font-size: 28px;
+    width: 100%;
+    box-shadow: 5px 5px 38px yellow;
+    font-family: comic sans ms;
+    font-weight: bold;
+}
+.note{
+    font-size: 20px;
+    color: black;
+}
+.copy_right_footer{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: algerian;
+    color: rgb(255, 0, 212);
+    background-color: rgb(140, 233, 245);
+    text-align: center;
+    line-height: 3;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-shadow: 5px 5px 5px rgb(255, 255, 255);
+}
+
+canvas{
+    border: 5px ridge orange;
+    box-shadow: 5px 5px 20px greenyellow;
+    border-radius: 20px;
+    margin-top: 25px;
+
+}
+body{
+    background: linear-gradient(to left, rgb(255, 115, 115), orange, yellow, rgb(47, 233, 47), rgb(0, 238, 255), rgb(177, 81, 245), violet) ;
+}
+
+#square_side{
+    font-size: 22px;
+}
